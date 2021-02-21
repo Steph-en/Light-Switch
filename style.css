@@ -22,3 +22,19 @@ button
     height: 50px;
     width: 150px;
 }
+
+button[name=button1]
+{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 400px;
+}
+
+button[name=button2]
+{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 400px;
+
+}
+
